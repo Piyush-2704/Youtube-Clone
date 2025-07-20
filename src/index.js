@@ -1,4 +1,3 @@
-import express from "express";
 import connectDB from "./database/index.js"
 import {app} from "./app.js";
 /*require('dotenv').config({path:'./env'})*/
